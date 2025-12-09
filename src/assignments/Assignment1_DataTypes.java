@@ -37,7 +37,7 @@ public class Assignment1_DataTypes {
 		String occupation = "Software Engineer";
 		System.out.println("Person's occupation:"+occupation);
 		
-		//9. Person's favourite colour: "Blue"
+		//9. Person's favorite color: "Blue"
 		String favouriteColour = "Blue";
 		System.out.println("Person's favourite colour:"+favouriteColour);
 		
@@ -46,7 +46,7 @@ public class Assignment1_DataTypes {
 		System.out.println("Current Year:"+currentYear);
 		
 		//11.Number of followers on a social media platform: 1,000,000
-		int followers = 1000000 ;
+		String followers = "1,000,000" ;
 		System.out.println("Number of followers on a social media platform:"+followers);
 		
 		//12.Rating of a movie: 7.5
