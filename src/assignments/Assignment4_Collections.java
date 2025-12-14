@@ -166,7 +166,7 @@ public class Assignment4_Collections {
 		productList.add(product3Data);
 		System.out.println("Product List :" + productList);
 
-
+        //Printing the Supplier Name from Product details
 		System.out.println("******************Print the data from Product details > Supplier Name > Office Depot *****************************************");
 		System.out.println("Supplier Name: "+ product2Data.get("Supplier"));
 	}
